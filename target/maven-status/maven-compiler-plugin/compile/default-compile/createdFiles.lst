@@ -1,2 +1,4 @@
 com\mkyong\WelcomeController.class
 com\mkyong\SpringBootWebApplication.class
+com\beans\EmpBean.class
+com\beans\EmpLombokBean.class
